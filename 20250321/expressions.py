@@ -39,11 +39,7 @@ result = 10 + 5 * 2 - 3
 
 # print( power )
 
-
 # modulus = 21  //   5
 # print( modulus )
 
 print( 2 != 8 )
-
-
-
